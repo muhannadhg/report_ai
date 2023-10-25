@@ -20,6 +20,9 @@ Install the reportlab library using the following command:
 Install the openai library using the following command:
 
     pip install openai
+you have to get the API KEY from: https://platform.openai.com/account/api-keys
+
+    
 Download the Bulk-Bing-Image-downloader project from GitHub: https://github.com/ostrolucky/Bulk-Bing-Image-downloader/
 
 Run the provided code and follow the on-screen instructions.
