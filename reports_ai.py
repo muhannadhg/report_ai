@@ -14,7 +14,7 @@ import datetime
 title = pyfiglet.figlet_format('AI', font='isometric2')
 rich.print(f'[yellow]{title}[/yellow]')
 
-api_key = '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'
+api_key = 'API_KEY'
 
 def chat_with_gpt(prompt):
     openai.api_key = api_key
